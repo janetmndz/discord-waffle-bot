@@ -12,6 +12,7 @@
         "request": "2.88.0"
     },
     "devDependencies": {
-        "lodash": ">=4.17.20"
+        "lodash": ">=4.17.20",
+        "node-fetch": ">=2.6.1"
     }
 }
